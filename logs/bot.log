@@ -1,0 +1,390 @@
+[2026-04-03 17:32:11] [INFO] [INIT] Establishing connection to Discord
+[2026-04-03 17:32:12] [INFO] [CORE] AeroX Multipurpose Bot
+[2026-04-03 17:32:12] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:32:12] [INFO] [CORE] System: Operational
+[2026-04-03 17:32:12] [INFO] [CORE] Developer: itsfizys (AeroX Development)
+[2026-04-03 17:32:12] [INFO] [CORE] Community: https://discord.gg/aerox
+[2026-04-03 17:32:12] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:32:12] [INFO] [INIT] Initializing database connection
+[2026-04-03 17:32:12] [SUCCESS] [DB] Database connection established
+[2026-04-03 17:32:12] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:32:12] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:32:12] [INFO] [INIT] Loading core modules
+[2026-04-03 17:32:12] [SUCCESS] [INIT] Core utilities loaded
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Help
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: HelpSlash
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Leveling
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: TrackingCog
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Counting
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Unblacklist
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: General
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Automod
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Backup
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Welcomer
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Sticky
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: StickyMessageListener
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Fun
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Games
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Extra
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Voice
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Owner
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Customrole
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: afk
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Embed
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Media
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Ignore
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Invcrole
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Giveaway
+[2026-04-03 17:32:12] [INFO] [INIT] Cog loaded: Steal
+[2026-04-03 17:32:13] [SUCCESS] [DATABASE] Backup database initialized successfully.
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AdvancedTicketSystem
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Timer
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Roleplay
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Blacklist
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Block
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Nightmode
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AI
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Badges
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Antinuke
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Whitelist
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Unwhitelist
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Extraowner
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Slots
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Stats
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: NoPrefix
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: FilterCog
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Global
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: VanityRoles
+[2026-04-03 17:32:16] [SUCCESS] [DATABASE] Todo database initialized successfully
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: TodoList
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: GoogleLens
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: GoogleSearch
+[2026-04-03 17:32:16] [SUCCESS] [PFPS] Loaded 976 valid matching pfp pairs (out of 976)
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: ProfilePictures
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: GuildProfile
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Crypto
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AutoBlacklist
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Guild
+[2026-04-03 17:32:16] [INFO] [INIT] Error handling cog loaded successfully
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Errors
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Autorole2
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Autorole
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: greet
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AutoResponder
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Mention
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AutoRole
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AutoReaction
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AutoReactListener
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: NotifCommands
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiMemberUpdate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiBan
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiBotAdd
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiChannelCreate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiChannelDelete
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiChannelUpdate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiEveryone
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiGuildUpdate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiIntegration
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiKick
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiPrune
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiRoleCreate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiRoleDelete
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiRoleUpdate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiWebhookUpdate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiWebhookCreate
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiWebhookDelete
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiSpam
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiCaps
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiLink
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiInvite
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiMassMention
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: AntiEmojiSpam
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Ban
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Unban
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Mute
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Unmute
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Lock
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Unlock
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Hide
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Unhide
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Kick
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Warn
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Role
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Message
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Moderation
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: TopCheck
+[2026-04-03 17:32:16] [INFO] [INIT] Cog loaded: Snipe
+[2026-04-03 17:32:16] [SUCCESS] [INIT] All 99 cogs loaded successfully
+[2026-04-03 17:32:16] [SUCCESS] [INIT] Command modules loaded
+[2026-04-03 17:32:16] [INFO] [INIT] All modules loaded successfully
+[2026-04-03 17:32:16] [INFO] [INIT] Synchronizing command tree
+[2026-04-03 17:32:17] [SUCCESS] [INIT] Command synchronization complete (79 commands)
+[2026-04-03 17:32:17] [INFO] [INIT] Setting up component interactions
+[2026-04-03 17:32:17] [SUCCESS] [INIT] Component interaction handlers configured
+[2026-04-03 17:32:27] [SUCCESS] [READY] Logged in as '𝐒𝐚𝐦𝐚𝐤𝐬𝐡 𝐂𝐨𝐫𝐞'
+[2026-04-03 17:32:27] [SUCCESS] [SYSTEM] AeroX is now online and ready to serve!
+[2026-04-03 17:52:37] [INFO] [INIT] Shutdown signal received, stopping bot gracefully...
+[2026-04-03 17:52:37] [INFO] [DB] Database connection gracefully closed
+[2026-04-03 17:52:37] [INFO] [APP] Backup cog unloaded.
+[2026-04-03 17:52:37] [SUCCESS] [INIT] Bot shutdown completed gracefully
+[2026-04-03 17:52:37] [INFO] [INIT] Received keyboard interrupt, shutdown complete.
+[2026-04-03 17:52:48] [INFO] [INIT] Establishing connection to Discord
+[2026-04-03 17:52:49] [INFO] [CORE] AeroX Multipurpose Bot
+[2026-04-03 17:52:49] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:52:49] [INFO] [CORE] System: Operational
+[2026-04-03 17:52:49] [INFO] [CORE] Developer: Samaksh (Samaksh-Core Development)
+[2026-04-03 17:52:49] [INFO] [CORE] Community: https://discord.gg/aerox
+[2026-04-03 17:52:49] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:52:49] [INFO] [INIT] Initializing database connection
+[2026-04-03 17:52:49] [SUCCESS] [DB] Database connection established
+[2026-04-03 17:52:49] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:52:49] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:52:49] [INFO] [INIT] Loading core modules
+[2026-04-03 17:52:49] [SUCCESS] [INIT] Core utilities loaded
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Help
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: HelpSlash
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Leveling
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: TrackingCog
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Counting
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Unblacklist
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: General
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Automod
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Backup
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Welcomer
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Sticky
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: StickyMessageListener
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Fun
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Games
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Extra
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Voice
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Owner
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Customrole
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: afk
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Embed
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Media
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Ignore
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Invcrole
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Giveaway
+[2026-04-03 17:52:49] [INFO] [INIT] Cog loaded: Steal
+[2026-04-03 17:52:49] [SUCCESS] [DATABASE] Backup database initialized successfully.
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: AdvancedTicketSystem
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Timer
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Roleplay
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Blacklist
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Block
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Nightmode
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: AI
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Badges
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Antinuke
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Whitelist
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Unwhitelist
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Extraowner
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Slots
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Stats
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: NoPrefix
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: FilterCog
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: Global
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: VanityRoles
+[2026-04-03 17:52:52] [SUCCESS] [DATABASE] Todo database initialized successfully
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: TodoList
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: GoogleLens
+[2026-04-03 17:52:52] [INFO] [INIT] Cog loaded: GoogleSearch
+[2026-04-03 17:52:53] [SUCCESS] [PFPS] Loaded 976 valid matching pfp pairs (out of 976)
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: ProfilePictures
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: GuildProfile
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Crypto
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AutoBlacklist
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Guild
+[2026-04-03 17:52:53] [INFO] [INIT] Error handling cog loaded successfully
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Errors
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Autorole2
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Autorole
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: greet
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AutoResponder
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Mention
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AutoRole
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AutoReaction
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AutoReactListener
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: NotifCommands
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiMemberUpdate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiBan
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiBotAdd
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiChannelCreate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiChannelDelete
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiChannelUpdate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiEveryone
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiGuildUpdate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiIntegration
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiKick
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiPrune
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiRoleCreate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiRoleDelete
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiRoleUpdate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiWebhookUpdate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiWebhookCreate
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiWebhookDelete
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiSpam
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiCaps
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiLink
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiInvite
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiMassMention
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: AntiEmojiSpam
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Ban
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Unban
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Mute
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Unmute
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Lock
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Unlock
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Hide
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Unhide
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Kick
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Warn
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Role
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Message
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Moderation
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: TopCheck
+[2026-04-03 17:52:53] [INFO] [INIT] Cog loaded: Snipe
+[2026-04-03 17:52:53] [SUCCESS] [INIT] All 99 cogs loaded successfully
+[2026-04-03 17:52:53] [SUCCESS] [INIT] Command modules loaded
+[2026-04-03 17:52:53] [INFO] [INIT] All modules loaded successfully
+[2026-04-03 17:52:53] [INFO] [INIT] Synchronizing command tree
+[2026-04-03 17:52:53] [SUCCESS] [INIT] Command synchronization complete (79 commands)
+[2026-04-03 17:52:53] [INFO] [INIT] Setting up component interactions
+[2026-04-03 17:52:53] [SUCCESS] [INIT] Component interaction handlers configured
+[2026-04-03 17:53:03] [SUCCESS] [READY] Logged in as '𝐒𝐚𝐦𝐚𝐤𝐬𝐡 𝐂𝐨𝐫𝐞'
+[2026-04-03 17:53:03] [SUCCESS] [SYSTEM] AeroX is now online and ready to serve!
+[2026-04-03 17:55:23] [INFO] [INIT] Shutdown signal received, stopping bot gracefully...
+[2026-04-03 17:55:23] [INFO] [DB] Database connection gracefully closed
+[2026-04-03 17:55:23] [INFO] [APP] Backup cog unloaded.
+[2026-04-03 17:55:23] [SUCCESS] [INIT] Bot shutdown completed gracefully
+[2026-04-03 17:55:23] [INFO] [INIT] Received keyboard interrupt, shutdown complete.
+[2026-04-03 17:55:33] [INFO] [INIT] Establishing connection to Discord
+[2026-04-03 17:55:34] [INFO] [CORE] AeroX Multipurpose Bot
+[2026-04-03 17:55:34] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:55:34] [INFO] [CORE] System: Operational
+[2026-04-03 17:55:34] [INFO] [CORE] Developer: Samaksh (Samaksh-Core Development)
+[2026-04-03 17:55:34] [INFO] [CORE] Community: https://discord.gg/aerox
+[2026-04-03 17:55:34] [INFO] [CORE] ──────────────────────────────────────
+[2026-04-03 17:55:34] [INFO] [INIT] Initializing database connection
+[2026-04-03 17:55:34] [SUCCESS] [DB] Database connection established
+[2026-04-03 17:55:34] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:55:34] [SUCCESS] [DB] Database schema initialized
+[2026-04-03 17:55:34] [INFO] [INIT] Loading core modules
+[2026-04-03 17:55:34] [SUCCESS] [INIT] Core utilities loaded
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Help
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: HelpSlash
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Leveling
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: TrackingCog
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Counting
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Unblacklist
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: General
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Automod
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Backup
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Welcomer
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Sticky
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: StickyMessageListener
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Fun
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Games
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Extra
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Voice
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Owner
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Customrole
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: afk
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Embed
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Media
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Ignore
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Invcrole
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Giveaway
+[2026-04-03 17:55:34] [INFO] [INIT] Cog loaded: Steal
+[2026-04-03 17:55:34] [SUCCESS] [DATABASE] Backup database initialized successfully.
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: AdvancedTicketSystem
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Timer
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Roleplay
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Blacklist
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Block
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Nightmode
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: AI
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Badges
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Antinuke
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Whitelist
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Unwhitelist
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Extraowner
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Slots
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Stats
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: NoPrefix
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: FilterCog
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Global
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: VanityRoles
+[2026-04-03 17:55:37] [SUCCESS] [DATABASE] Todo database initialized successfully
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: TodoList
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: GoogleLens
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: GoogleSearch
+[2026-04-03 17:55:37] [SUCCESS] [PFPS] Loaded 976 valid matching pfp pairs (out of 976)
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: ProfilePictures
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: GuildProfile
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Crypto
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: AutoBlacklist
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Guild
+[2026-04-03 17:55:37] [INFO] [INIT] Error handling cog loaded successfully
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Errors
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Autorole2
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Autorole
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: greet
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: AutoResponder
+[2026-04-03 17:55:37] [INFO] [INIT] Cog loaded: Mention
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AutoRole
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AutoReaction
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AutoReactListener
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: NotifCommands
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiMemberUpdate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiBan
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiBotAdd
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiChannelCreate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiChannelDelete
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiChannelUpdate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiEveryone
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiGuildUpdate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiIntegration
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiKick
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiPrune
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiRoleCreate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiRoleDelete
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiRoleUpdate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiWebhookUpdate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiWebhookCreate
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiWebhookDelete
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiSpam
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiCaps
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiLink
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiInvite
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiMassMention
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: AntiEmojiSpam
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Ban
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Unban
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Mute
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Unmute
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Lock
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Unlock
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Hide
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Unhide
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Kick
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Warn
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Role
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Message
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Moderation
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: TopCheck
+[2026-04-03 17:55:38] [INFO] [INIT] Cog loaded: Snipe
+[2026-04-03 17:55:38] [SUCCESS] [INIT] All 99 cogs loaded successfully
+[2026-04-03 17:55:38] [SUCCESS] [INIT] Command modules loaded
+[2026-04-03 17:55:38] [INFO] [INIT] All modules loaded successfully
+[2026-04-03 17:55:38] [INFO] [INIT] Synchronizing command tree
+[2026-04-03 17:55:39] [SUCCESS] [INIT] Command synchronization complete (79 commands)
+[2026-04-03 17:55:39] [INFO] [INIT] Setting up component interactions
+[2026-04-03 17:55:39] [SUCCESS] [INIT] Component interaction handlers configured
+[2026-04-03 17:55:47] [SUCCESS] [READY] Logged in as '𝐒𝐚𝐦𝐚𝐤𝐬𝐡 𝐂𝐨𝐫𝐞'
+[2026-04-03 17:55:47] [SUCCESS] [SYSTEM] AeroX is now online and ready to serve!
+[2026-04-03 18:16:00] [INFO] [INIT] Shutdown signal received, stopping bot gracefully...
+[2026-04-03 18:16:00] [INFO] [DB] Database connection gracefully closed
+[2026-04-03 18:16:00] [INFO] [APP] Backup cog unloaded.
+[2026-04-03 18:16:00] [SUCCESS] [INIT] Bot shutdown completed gracefully
+[2026-04-03 18:16:00] [INFO] [INIT] Received keyboard interrupt, shutdown complete.

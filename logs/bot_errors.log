@@ -1,0 +1,4 @@
+2026-04-03 17:44:33,694 ERROR:Error in command ticket category-add invoked by samaksh_. (1432416557249855498): name is a required argument that is missing.
+NoneType: None
+2026-04-03 17:45:11,238 ERROR:Error in command ticket category-add invoked by samaksh_. (1432416557249855498): name is a required argument that is missing.
+NoneType: None
