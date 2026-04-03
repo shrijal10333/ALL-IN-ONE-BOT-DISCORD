@@ -4,7 +4,7 @@
     + Community: https://discord.gg/aerox (AeroX Development )
     + for any queries reach out Community or DM me.
 """
-from keep_alive import keep_alive
+
 import os 
 import sys 
 import asyncio 
